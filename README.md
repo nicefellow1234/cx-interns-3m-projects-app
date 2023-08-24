@@ -1,5 +1,7 @@
 # cx-interns-3m-projects-app
 
+A project and tasks management app created in Next.js (Frontend) & Strapi (Backend).
+
 Clone the repo and follow the instructions below to get a working app:
 
 Make sure to run `start-app.bat` to start next & strapi app both at the same time by double clicking on it.
